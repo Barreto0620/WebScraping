@@ -82,7 +82,7 @@ def coletar_dados():
 
     return lista_produtos
 
-def salvar_json(dados, nome_arquivo="produtos.json"):
+def salvar_json(dados, nome_arquivo="produtos_mercadolivre.json"):
     """
     Salva os dados extraídos em um arquivo JSON.
     """
